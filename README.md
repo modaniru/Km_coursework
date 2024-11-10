@@ -3,5 +3,5 @@ go mod tidy
 ```
 
 ```bash
-go run main.go urils.go
+go run main.go utils.go
 ```
